@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=87cefa&height=300&section=header&text=0xc0de1dea&fontSize=77)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=0xc0de1dea&fontSize=77)
 
 # 0xc0de1dea 💭
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast)
