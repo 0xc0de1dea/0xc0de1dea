@@ -3,3 +3,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xc0de1dea&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0xc0de1dea)](https://solved.ac/0xc0de1dea)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=0xc0de1dea&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
